@@ -1,0 +1,6 @@
+{
+  "name": "FinOps AI - Financial Operations & Banking Platform",
+  "description": "AI-powered Financial Operations, Payments, Analytics, and Customer Service Platform for banking customers, operations analysts, and managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
